@@ -33,7 +33,7 @@ icon: glyphicon-heart
 
 #### 友情链接
 
-[异次元](http://www.iplaysoft.com/) \|
+[异次元](http://www.iplaysoft.com/)
 
 Comment below to exchange link with me.  
 

@@ -23,7 +23,7 @@ categories: book
 
 # SCAQ结构
 
-![SCAQ-Explain]({{"/hsw_v5/css/pics/SCQA.png"}})
+![SCAQ-Explain]({{"/yhy_v5/css/pics/SCQA.png"}})
 <!--  ![SCAQ-Explain](../css/pics/SCQA.png) -->
 
 第一次看到这个SCAQ结构的时候,眼前一亮,确实是个很实用的办法.当然,无论多么好的思路,也需要花时间去实践.
@@ -47,7 +47,7 @@ A：我们的解决方案建议是……
 
 # 2W1H
 2W1H是下面的5W2H的简化版,有时候也只需要这么简单就能做好呢，
-![2W1H]({{"/hsw_v5/css/pics/2W1H.jpg"}})
+![2W1H]({{"/yhy_v5/css/pics/2W1H.jpg"}})
 <!-- ![2WIH](../css/pics/2W1H.jpg) -->
 
 + Why :为什么要这样做

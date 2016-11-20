@@ -1,0 +1,177 @@
+Index: pages/2about.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pages/2about.md	(revision 1a3125d1480e7564c6dc976d8d50c2bfa7be6339)
++++ pages/2about.md	(revision )
+@@ -15,9 +15,9 @@
+ 
+ ### 联系我
+ 
+-* email：[hsw_v5@163.com](mailto:{{ site.email }})
++* email：[yhy_v5@163.com](mailto:{{ site.email }})
+ * QQ：694244330
+-* 知乎：[Hushiwei](https://www.zhihu.com/people/hsw_v5)
++* 知乎：[Hushiwei](https://www.zhihu.com/people/yhy_v5)
+ * 简书：[Hushiwei](http://www.jianshu.com/users/4c183d772c7e/latest_articles)
+ 
+ ---
+\ No newline at end of file
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision 1a3125d1480e7564c6dc976d8d50c2bfa7be6339)
++++ README.md	(revision )
+@@ -2,13 +2,13 @@
+ 
+ This is my blog based on jekyll.
+ 
+-You can visit [here](https://timehsw.github.io/hsw_v5/) to see this blog.
++You can visit [here](https://575617819.github.io/yhy_v5/) to see this blog.
+ 
+ ---
+ 
+ 这是我的博客，基于 jekyll。
+ 
+-博客访问地址：[点击这里](https://timehsw.github.io/hsw_v5/)
++博客访问地址：[点击这里](https://575617819.github.io/yhy_v5/)
+ 
+ **博客模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+ 
+@@ -18,7 +18,7 @@
+ ![SCAQ-Explain](./css/pics/SCQA.png)
+ github:
+ 写全路径,不然找不到图片
+-![SCAQ-Explain]({{"/hsw_v5/css/pics/SCQA.png"}})
++![SCAQ-Explain]({{"/yhy_v5/css/pics/SCQA.png"}})
+ 
+ 
+ 
+Index: _layouts/page.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _layouts/page.html	(revision 1a3125d1480e7564c6dc976d8d50c2bfa7be6339)
++++ _layouts/page.html	(revision )
+@@ -13,7 +13,7 @@
+ <div class="post-area post comment">
+     <!-- 多说评论框 start -->
+     
+-    <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="hsw_v5{{ page.url }}"></div>
++    <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="yhy_v5{{ page.url }}"></div>
+     
+     <!-- 多说评论框 end -->
+ </div>
+\ No newline at end of file
+Index: _config.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _config.yml	(revision 1a3125d1480e7564c6dc976d8d50c2bfa7be6339)
++++ _config.yml	(revision )
+@@ -1,7 +1,7 @@
+ # Site settings
+-title: Time渐行渐远
+-email: hsw_v5@163.com
+-description: Code Changing The World
++title: 雕虫小技
++email: yhy_v5@126.com
++description: Tell me why
+ # > # this means to ignore newlines until "baseurl:"
+ #   Write an awesome description for your new site here. You can edit this
+ #   line in _config.yml. It will appear in your document head meta (for
+@@ -11,7 +11,7 @@
+ # url: "http://yourdomain.com" # the base hostname & protocol for your site
+ 
+ twitter_username: HswTime
+-github_username:  Timehsw
++github_username:  575617819
+ permalink: /:year/:month/:day/:title/
+ 
+ # Build settings
+Index: _layouts/post.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _layouts/post.html	(revision 1a3125d1480e7564c6dc976d8d50c2bfa7be6339)
++++ _layouts/post.html	(revision )
+@@ -19,7 +19,7 @@
+     <div class="post-area post comment">
+       <!-- 多说评论框 start -->
+       
+-      <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="hsw_v5{{ page.url }}"></div>
++      <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="yhy_v5{{ page.url }}"></div>
+       
+       <!-- 多说评论框 end -->
+     </div>
+\ No newline at end of file
+Index: _posts/2016-11-12-WriterLogical.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _posts/2016-11-12-WriterLogical.md	(revision 1a3125d1480e7564c6dc976d8d50c2bfa7be6339)
++++ _posts/2016-11-12-WriterLogical.md	(revision )
+@@ -23,7 +23,7 @@
+ 
+ # SCAQ结构
+ 
+-![SCAQ-Explain]({{"/hsw_v5/css/pics/SCQA.png"}})
++![SCAQ-Explain]({{"/yhy_v5/css/pics/SCQA.png"}})
+ <!--  ![SCAQ-Explain](../css/pics/SCQA.png) -->
+ 
+ 第一次看到这个SCAQ结构的时候,眼前一亮,确实是个很实用的办法.当然,无论多么好的思路,也需要花时间去实践.
+@@ -47,7 +47,7 @@
+ 
+ # 2W1H
+ 2W1H是下面的5W2H的简化版,有时候也只需要这么简单就能做好呢，
+-![2W1H]({{"/hsw_v5/css/pics/2W1H.jpg"}})
++![2W1H]({{"/yhy_v5/css/pics/2W1H.jpg"}})
+ <!-- ![2WIH](../css/pics/2W1H.jpg) -->
+ 
+ + Why :为什么要这样做
+Index: _includes/footer.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _includes/footer.html	(revision 1a3125d1480e7564c6dc976d8d50c2bfa7be6339)
++++ _includes/footer.html	(revision )
+@@ -22,9 +22,9 @@
+           <span class="point"> · </span>
+           <span>{{ site.description }}</span>
+           <span class="point"> · </span>
+-          <span>&copy; 2016 HuShiwei</span>
++          <span>&copy; 2016 YangHang</span>
+           <span class="point"> · </span>
+-          <span>Designed by <a href="https://github.com/Timehsw">Time渐行渐远</a></span>
++          <span>Designed by <a href="https://github.com/575617819">雕虫小技</a></span>
+ 
+       </div>
+     </div>
+\ No newline at end of file
+Index: _includes/head.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _includes/head.html	(revision 1a3125d1480e7564c6dc976d8d50c2bfa7be6339)
++++ _includes/head.html	(revision )
+@@ -13,8 +13,8 @@
+ 	<link rel="stylesheet" type="text/css" href="https://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css">
+ 	<!-- <link rel="stylesheet" type="text/css" href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css"> -->
+ 	<!-- <link rel="stylesheet" type="text/css" href="{{"/static/css/bootstrap.min.css" | prepend: site.baseurl }}"> -->
+-    <link rel="icon" href="/hsw_v5/css/pics/yh.jpg" type="image/x-icon" />
+-    <link rel="shortcut icon" href="/hsw_v5/css/pics/yh.jpg" type="image/x-icon" />
++    <link rel="icon" href="/yhy_v5/css/pics/yh.jpg" type="image/x-icon" />
++    <link rel="shortcut icon" href="/yhy_v5/css/pics/yh.jpg" type="image/x-icon" />
+ 
+ 	<link rel="stylesheet" type="text/css" href="{{ "/static/css/index.css" | prepend: site.baseurl }}">
+ 	
+\ No newline at end of file

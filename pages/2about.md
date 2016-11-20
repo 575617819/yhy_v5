@@ -7,15 +7,16 @@ icon: glyphicon-heart
 
 ### 关于我
 
-> 安卓工程师
+> Android攻城狮
 
-开个火锅店
+种一棵树最好的时间是十年前，其次是现在
 
 ---
 
 ### 联系我
 
-* email：[yhy_v5@126.com](mailto:{{ site.email }})
+* Email: [yhy_v5@126.com](mailto:{{ site.email }})
+* Github: [https://github.com/575617819](https://github.com/575617819)
 
 ---
 
@@ -23,8 +24,7 @@ icon: glyphicon-heart
 
 写博客主要是因为,输出是为了更好的吸收
 
-2016.11.26 | --------------
-2016.11.20 | 静态博客搭建成功
+2016.11.20 | 博客搭建成功
 
 
 通过搭建这个静态博客，学到了如何去把一个知识点表达的更清晰完整.

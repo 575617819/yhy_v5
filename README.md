@@ -15,10 +15,10 @@ You can visit [here](https://575617819.github.io/yhy_v5/) to see this blog.
 注意:添加图片
 本地:
 写相对路径
-![SCAQ-Explain](./css/pics/SCQA.png)
+![SCAQ-Explain](./css/pics/test.jpg)
 github:
 写全路径,不然找不到图片
-![SCAQ-Explain]({{"/yhy_v5/css/pics/SCQA.png"}})
+![SCAQ-Explain]({{"/yhy_v5/css/pics/test.jpg"}})
 
 
 

@@ -5,10 +5,12 @@ permalink: /link/
 icon: glyphicon-heart
 ---
 
-### 大数据博客
+### Android相关博客
 
-+ [http://lxw1234.com/](http://lxw1234.com/)
-+ [http://blog.hyperj.net/](http://blog.hyperj.net/)
++ [http://stormzhang.com/posts/](http://stormzhang.com/posts/)
++ [http://wuxiaolong.me/categories/](http://wuxiaolong.me/categories/)
++ [http://my.csdn.net/mynameishuangshuai](http://my.csdn.net/mynameishuangshuai)
++ [http://my.csdn.net/sinyu890807](http://my.csdn.net/sinyu890807)
 
 ### 软件下载
 

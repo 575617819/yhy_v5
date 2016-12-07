@@ -10,6 +10,7 @@ icon: glyphicon-heart
 > Android攻城狮
 
 种一棵树最好的时间是十年前，其次是现在
+你若盛开，清风徐来
 
 ---
 
@@ -34,8 +35,6 @@ icon: glyphicon-heart
 #### 友情链接
 
 [异次元](http://www.iplaysoft.com/)
-
-Comment below to exchange link with me.  
 
 ---
 

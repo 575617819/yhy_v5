@@ -16,6 +16,7 @@ icon: glyphicon-heart
 ### 联系我
 
 > Email: [yhy_v5@126.com](mailto:{{ site.email }})
+
 > Github: [https://github.com/575617819](https://github.com/575617819)
 
 ---
@@ -24,7 +25,7 @@ icon: glyphicon-heart
 
 > 写博客主要是因为,输出是为了更好的吸收
 
-> 2016.11.20 | 博客搭建成功
+> 2016.11.20  博客搭建成功
 
 > 通过搭建这个静态博客，学到了如何去把一个知识点表达的更清晰完整.
 
